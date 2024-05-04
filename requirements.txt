@@ -1,5 +1,5 @@
 torch
 transformers
-bitsandbytes
+bitsandbytes==0.43.1
 accelerate
 streamlit
